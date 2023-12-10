@@ -2,7 +2,7 @@ import { useCallback } from "react";
 
 const DemetazonSwapWhitepaper = () => {
   const onAboutDevButtonClick = useCallback(() => {
-    window.open("https://jeffspace.vercel.app");
+    window.open("https://parkingswing.vercel.app");
   }, []);
 
   return (
